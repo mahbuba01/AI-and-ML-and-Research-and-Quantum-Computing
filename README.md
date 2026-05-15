@@ -1,3 +1,30 @@
+# The First AI Chatbot
+
+The world’s first famous AI chatbot was created in 1966 — long before the internet existed!
+
+Its name was ELIZA.
+
+The surprising part? There was no internet, no smartphones and no social media at that time.
+
+Joseph Weizenbaum, a computer scientist at Massachusetts Institute of Technology, created ELIZA. He built a program that could reply to people in a human-like way.
+
+For example, if someone said:
+
+“I feel sad”
+
+ELIZA might reply:
+
+“Why do you feel sad?”
+
+It mainly used parts of people’s sentences to ask questions back but at that time, it felt amazing and futuristic.
+
+Many people even believed ELIZA could truly “understand” them. Some users shared personal feelings with the chatbot!
+
+Even without the internet, people were already talking to computers.
+
+Today’s modern AI tools like ChatGPT started their journey from small early projects like ELIZA.
+
+
 # Artificial Intelligence: Problem-Solving Search Strategies
 
 Have you ever wondered how Google Maps finds the fastest route for you? Or how a video game character knows where to go next?  
