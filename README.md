@@ -239,9 +239,13 @@ The tool suggests journals that are the best match for the manuscript.
 After searching, it provides information such as:
 
 • Relevant journals matching your paper
+
 • Impact Factor
+
 • Acceptance Rate
+
 • Review Time
+
 • Indexing (Scopus, SCI, etc.)
 
 How to Choose a Journal?
