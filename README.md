@@ -224,7 +224,39 @@ If you submit your paper to a subscription-based journal (not open access), many
 However, some journals still have submission fees or optional open-access charges, so it’s always important to check the journal’s "Author Guidelines" before submitting.
 
 
+# How to Use Elsevier Journal Finder to Find the Right Journal for a Research Paper?
 
+Elsevier Journal Finder is a smart tool that helps researchers identify the most suitable journals for their papers. By entering the paper's:
+
+• Title
+
+• Abstract
+
+• Keywords
+
+The tool suggests journals that are the best match for the manuscript.
+
+After searching, it provides information such as:
+
+• Relevant journals matching your paper
+• Impact Factor
+• Acceptance Rate
+• Review Time
+• Indexing (Scopus, SCI, etc.)
+
+How to Choose a Journal?
+
+Journal Finder may suggest multiple journals. When selecting one, consider the following factors:
+
+1. Subscription-Based Journals: These journals generally do not charge any fee for paper submission or publication.
+
+2. Open-Access Journals: These usually require an APC (Article Processing Charge), which can range from around $200–$300 or even more.
+
+3. Waivers: Many journals offer APC waivers for researchers from developing countries (such as Bangladesh) or those with limited funding. Before submission, always check the journal’s policy page to confirm whether a waiver is available.
+
+Note:
+
+Before submitting to any journal, carefully read the “Author Guidelines” on the journal’s website and format your paper accordingly.
 
 
 
