@@ -31,11 +31,11 @@ Have you ever wondered how Google Maps finds the fastest route for you? Or how a
 
 A key component of AI drives these capabilities. When AI needs to solve a problem, such as finding the best way to get from one place to another, it searches through different possibilities. This process is known as a Search Strategy in AI.
 
-Types of Search Strategies in AI
+#### Types of Search Strategies in AI
   
 AI search strategies are divided into two main types: Uninformed Search and Informed Search. 
 
-★ Uninformed Search:
+Uninformed Search:
 This involves exploring options systematically without prior knowledge or hints.  
 
 For example, imagine you’re in a maze and systematically explore every path without knowing which one leads to the exit. 
@@ -47,7 +47,7 @@ Example:
 
 Uninformed search methods are straightforward but can be time-consuming.  
 
-★ Informed Search:  
+Informed Search:  
 Here, AI applies strategies using some hints or knowledge about the best possible path.  
 
 For example, Google Maps uses traffic data and distance estimates to calculate the shortest or fastest route.
@@ -55,7 +55,7 @@ For example, Google Maps uses traffic data and distance estimates to calculate t
 Example: 
    1. A* Search: Uses distance traveled and an estimated cost to the goal to find the most efficient route. 
 
-Pathfinding in AI  
+#### Pathfinding in AI  
 
 One of the most common applications of searching is "Pathfinding".  
 
@@ -64,7 +64,7 @@ Imagine a video game where your character needs to travel from the office to hom
   • If AI uses an uninformed method, it explores routes systematically without prioritizing the best option.  
   • If AI uses an informed method, it leverages distance and time estimates to select the fastest route. 
 
-Real-Life Applications
+#### Real-Life Applications
 
 Search strategies underpin everyday tools like navigation apps, online search engines and video game mechanics. 
 
@@ -75,7 +75,7 @@ Reference Book: Forthcoming book titled "Artificial Intelligence: Echoes of a Si
 
 # Guidelines of Generative AI
 
-★ Topics: In a structured order; from the most important to less critical topics!
+Topics: In a structured order; from the most important to less critical topics!
 
 1. GANs: DCGAN, StyleGAN, BigGAN.
 
@@ -99,7 +99,7 @@ Reference Book: Forthcoming book titled "Artificial Intelligence: Echoes of a Si
 
 10. Applications of Generative AI: Gaming, Content Creation, Drug Discovery, Digital Twins for Simulations.
 
-★ Math for Gen AI
+#### Math for Gen AI
 
 1. Linear Algebra: Matrices, Vectors, Eigenvalues, Eigenvectors.
 
@@ -110,7 +110,7 @@ Reference Book: Forthcoming book titled "Artificial Intelligence: Echoes of a Si
 # Guidelines of Agentic AI
 Agentic AI mainly operates based on Four Foundational Pillars: Memory, Planning, Decision-Making and Autonomous Execution.
 
-★ How to Get Started with Agentic AI? 
+How to Get Started with Agentic AI? 
 
 1. Reinforcement Learning (RL)
 
@@ -120,7 +120,7 @@ Agentic AI mainly operates based on Four Foundational Pillars: Memory, Planning,
 
 4. Memory & Planning Systems: Start with open-source projects like LangChain and AutoGPT.
 
-# Essential Topics of Agentic AI
+### Essential Topics of Agentic AI
 
 Most Important and Practical Aspects:
 
@@ -153,7 +153,7 @@ Most Important and Practical Aspects:
 • PyBullet: Robotics simulation.  
 
 
-★ Math for Agentic AI
+#### Math for Agentic AI
   
 • Linear Algebra: For state representation (matrices, vectors).  
 
@@ -168,7 +168,7 @@ Quantum computing is currently a hot topic in the tech world.
 
 Physicist Richard Feynman first proposed that by harnessing the principles of quantum mechanics, we could construct computers that operate exponentially faster than classical ones. In 1994, a mathematician named Peter Shor developed "Shor's Algorithm" which allows a quantum computer to factor large numbers very quickly, potentially breaking today’s encryption systems. Research in this field has been ongoing ever since.
 
-★ What is Quantum Computing? How Does Quantum Work?
+#### What is Quantum Computing? How Does Quantum Work?
 
 The computers we use are classical computers. They operate using "bits" which are either 0 or 1. However, quantum computers work with "qubits". Qubits can hold multiple possibilities at once. For example, 50 qubits together can process over 2^50 possibilities (1.125 quadrillion). These qubits can be both 0 and 1 at the same time, a property called "Superposition."
 
@@ -180,11 +180,11 @@ The computers we use are classical computers. They operate using "bits" which ar
 
 With these three principles, quantum computers can quickly solve complex problems that are impossible for classical computers. For instance, 100 qubits can process 2^100 possibilities which is more than the number of particles in the universe!
 
-★ How Are Quantum Computers Built? What Challenges Are Faced?
+#### How Are Quantum Computers Built? What Challenges Are Faced?
 
 Building a quantum computer is extremely difficult and costs hundreds of millions of dollars. Qubits can be electrons, photons or superconducting circuits. They must operate at temperatures near absolute zero (-273°C). Moreover, qubits are highly sensitive; keeping them stable is tough and even slight movement, noise or heat can cause errors. That’s why they’re kept in special chambers. Additionally, quantum computing requires new types of algorithms which require time to develop and master.
 
-★ Current Situation (Up to 2025):
+#### Current Situation (Up to 2025)
 
 1. Google announced "Quantum Supremacy" in 2019. Their Sycamore processor with 53 qubits, completed a task in 200 seconds that would take the world’s fastest supercomputer 10,000 years. By 2024, their Willow Chip has become even more advanced.
 
@@ -215,7 +215,7 @@ After installation, the journal metrics will appear automatically on Google Scho
 
 # How to find a journal for your paper?
 
-Go to https://journalfinder.elsevier.com/
+Go to [Elsevier](https://journalfinder.elsevier.com/)
 
 Write the abstract for your paper in it and search, you will get a list of related journals.
 
@@ -224,7 +224,7 @@ If you submit your paper to a subscription-based journal (not open access), many
 However, some journals still have submission fees or optional open-access charges, so it’s always important to check the journal’s "Author Guidelines" before submitting.
 
 
-# How to Use Elsevier Journal Finder to Find the Right Journal for a Research Paper?
+### How to Use Elsevier Journal Finder to Find the Right Journal for a Research Paper?
 
 Elsevier Journal Finder is a smart tool that helps researchers identify the most suitable journals for their papers. By entering the paper's:
 
@@ -258,7 +258,7 @@ Journal Finder may suggest multiple journals. When selecting one, consider the f
 
 3. Waivers: Many journals offer APC waivers for researchers from developing countries (such as Bangladesh) or those with limited funding. Before submission, always check the journal’s policy page to confirm whether a waiver is available.
 
-Note:
+Note
 
 Before submitting to any journal, carefully read the “Author Guidelines” on the journal’s website and format your paper accordingly.
 
